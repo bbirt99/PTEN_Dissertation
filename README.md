@@ -26,5 +26,4 @@ To execute the pipeline, ensure the following core R packages are installed:
 Due to file size constraints, raw `.mtx` count matrices, TCGA clinical `.txt` files, and raw mass spectrometry outputs are not hosted in this repository. Ensure that all raw data inputs and external metadata files are structured in their respective sub-directories (e.g., `/RNAseq_1/`, `/proteomics/`, `/TCGA+cibersort/`) relative to the working directory before executing the script.
 
 ## Author
-* **Ben [Your Last Name]** 
-* University of Southampton
+* **Benjamin Birt** 
